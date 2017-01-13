@@ -1,0 +1,10 @@
+.jumbotron {
+	background-image: url(../images/train.jpg);
+	background-size: cover;
+	background-position: center center;
+	color: white;
+	
+}
+thead {
+	font-weight: bold;
+}
